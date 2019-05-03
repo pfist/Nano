@@ -40,7 +40,7 @@ To use Nano, download the latest release and copy it to your templates directory
 ![New Project dialog screenshot](https://raw.githubusercontent.com/BlueVoidStudios/Nano/master/Media/GitHub_NewProjectDialog.png)
 
 ### Packaging your game
-- **Visual Studio is required to package your game with Nano.** This is because the VR plugins are disabled. You don't have to use it; just install it with the configuration picture below and you should be good to go.
+- **Visual Studio is required to package your game with Nano.** This is because the VR plugins are disabled. You don't have to use it; just install it with the configuration shown below and you should be good to go.
 
 ![Visual Studio configuration](https://raw.githubusercontent.com/BlueVoidStudios/Nano/master/Media/GitHub_VisualStudioConfig.png)
 
