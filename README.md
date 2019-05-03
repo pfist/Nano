@@ -37,12 +37,12 @@ There are ways to reduce the size even further, but I decided to focus on the mo
 ## Instructions
 To use Nano, download the latest release and copy it to your templates directory (e.g. `Epic Games/UE_4.22/Templates/`). Once you do this, Nano should appear as a template option in the New Project dialog.
 
-![New Project dialog screenshot]()
+![New Project dialog screenshot](https://raw.githubusercontent.com/BlueVoidStudios/Nano/master/Media/GitHub_NewProjectDialog.png)
 
 ### Packaging your game
 - **Visual Studio is required to package your game with Nano.** This is because the VR plugins are disabled. You don't have to use it; just install it with the configuration picture below and you should be good to go.
 
-![Visual Studio configuration]()
+![Visual Studio configuration](https://raw.githubusercontent.com/BlueVoidStudios/Nano/master/Media/GitHub_VisualStudioConfig.png)
 
 - Nano is configured for development out of the box. When it's time to package the final version of your game, don't forget to set your build config to Shipping!
 
