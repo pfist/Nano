@@ -48,5 +48,5 @@ To use Nano, download the latest release and copy it to your templates directory
 
 ## Credits
 - The font used in the Nano logo is [Playlines](https://creativemarket.com/putracetol/2962806-Playlines-Typeface) by PutraCetol Studio
-- Whomever at Epic Games wrote [this article]() on reducing your package size
+- Whomever at Epic Games wrote [this article](https://docs.unrealengine.com/en-us/Engine/Performance/ReducingPackageSize) on reducing your package size
 - Heff, Tate Hartel, and AzorMachine from the #gamejams channel on [Unreal Slackers](https://unrealslackers.org) for their tips on reducing package size 
