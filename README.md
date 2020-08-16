@@ -2,7 +2,7 @@
 
 Nano is a tiny UE4 template designed for people who want to make tiny games. It was inspired by a special award in Epic's #ue4jam that goes to the best game under 100 MB. This award tends to raise a lot of questions in the community about how to make a UE4 game so small, so I decided to create a template that does most of the heavy lifting for you!
 
-> ⚠ Currently, Nano requires Unreal Engine 4.24 or older in order to get below 100MB. I'm still investigating this, but as of 4.25, Nano can no longer get below 100MB, even with extensive changes. For now, stick with 4.25 and below.
+> ⚠ Currently, Nano requires Unreal Engine 4.24 or older in order to get below 100MB. I'm still investigating this, but as of 4.25, Nano can no longer get below 100MB, even with extensive changes. For now, stick with 4.24 and below.
 
 ## Benchmarks
 Here's how Nano compares to the blank template that ships with UE4:
