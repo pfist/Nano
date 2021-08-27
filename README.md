@@ -32,12 +32,12 @@ To help achieve its small size, Nano comes out of the box with the following con
 - Magic Leap plugins disabled
 - No prerequisites installer
 
-> ⚠ Excluding the prerequisites installer means your game may not work for players who have never played a UE4 or UE5 game before. This is fine for Unreal game jams because the rules don't require you to include it, but if you want your game to be accessible to more players, consider packaging a second build that includes the prerequisites installer.
+Note: Excluding the prerequisites installer means your game may not work for players who have never played a UE4 or UE5 game before. This is fine for Unreal game jams because the rules don't require you to include it, but if you want your game to be accessible to more players, consider packaging a second build that includes the prerequisites installer.
 
 There are ways to reduce the size of your game even further — such as blacklisting engine content — but this template focuses on modifications that have significant results while remaining safe and usable for most developers.
 
 ## Installation
-To use Nano, download the latest release for your engine version and copy it to the templates directory (e.g. `Epic Games/UE_4.26/Templates/`). Once you do this, Nano should appear as a template option in the New Project dialog.
+To use Nano, [download the latest release](https://github.com/pfist/Nano/releases/lates/TP_Nano.zip) and copy it to the templates directory (e.g. `Epic Games/UE_4.26/Templates/`). Once you do this, Nano should appear as a template option in the New Project dialog.
 
 ### Unreal Engine 4
 ![New Project UE4 screenshot](Media/GitHub_NewProject_UE4.png)
