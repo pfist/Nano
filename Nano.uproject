@@ -61,6 +61,7 @@
 	],
 	"TargetPlatforms": [
 		"WindowsNoEditor",
-		"WindowsNoEditorWin32"
+		"WindowsNoEditorWin32",
+		"Windows"
 	]
 }
