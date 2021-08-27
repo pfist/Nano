@@ -5,18 +5,19 @@ Nano is a tiny project template for people who want to make tiny games with UE4 
 > ⚠ If you're going for the Tiny Award in an Unreal game jam, you'll have to skip Unreal Engine 4.27 because Nano won't get you below the 150 MB limit. It currently works with 4.26 or older, as well as Unreal Engine 5 Early Access.
 
 ## Benchmarks
-Here's how Nano compares to the blank template that ships with UE4 and UE5. Numbers are based on the Shipping build configuration
+Here's how Nano compares to the Blank template that ships with UE4 and UE5. Numbers are based on the Shipping build configuration.
+
 ### Unreal Engine 4.26
-|       | 64-bit | 32-bit |
-| ----- | ------ | ------ |
-| Blank | 211 MB | 176 MB |
-| Nano  | 113 MB | 95 MB  |
+|       | Blank | Nano | Space for your game |
+| ----- | ------ | ------ | ------ |
+| 64-bit | 211 MB | 113 MB | 37 MB |
+| 32-bit  | 176 MB | 95 MB  | 55 MB |
 
 ### Unreal Engine 5 Early Access
-|       | 64-bit | 32-bit |
-| ----- | ------ | ------ |
-| Blank | 240 MB | N/A |
-| Nano  | 127 MB | N/A  |
+|       | Blank | Nano | Space for your game |
+| ----- | ------ | ------ | ------ |
+| 64-bit | 240 MB | 127 MB | 23 MB |
+| 32-bit  | N/A | N/A  | N/A |
 
 ## How it works
 To help achieve its small size, Nano comes out of the box with the following configuration:
